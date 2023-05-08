@@ -1,5 +1,13 @@
 # Copyedit
 
+The Web and iOS UI for the CopyEdit App powered by ChatGPT.
+
+For setting up the API check out the following repositories:
+
+[CopyEdit GPT Lambda API](https://github.com/eddietejeda/copyedit-gpt-lambda)
+[Langchain Lambda Layer](https://github.com/eddietejeda/aws-langchain-lambda-layer)
+
+
 ## Framework7 CLI Options
 
 Framework7 app created with following options:
@@ -83,6 +91,7 @@ Capacitor assets are located in `resources` folder which is intended to be used 
 sudo gem install cocoapods
 cd ./ios/App
 pod install
+cd ../../
 npx cordova-res
 npx cap open ios
 ```
