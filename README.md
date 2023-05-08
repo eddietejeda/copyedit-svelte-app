@@ -4,8 +4,8 @@ The Web and iOS UI for the CopyEdit App powered by ChatGPT.
 
 For setting up the API check out the following repositories:
 
-[CopyEdit GPT Lambda API](https://github.com/eddietejeda/copyedit-gpt-lambda)
-[Langchain Lambda Layer](https://github.com/eddietejeda/aws-langchain-lambda-layer)
+* [CopyEdit GPT Lambda API](https://github.com/eddietejeda/copyedit-gpt-lambda)
+* [Langchain Lambda Layer](https://github.com/eddietejeda/aws-langchain-lambda-layer)
 
 
 ## Framework7 CLI Options
