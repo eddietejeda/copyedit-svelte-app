@@ -7,6 +7,7 @@ For setting up the API check out the following repositories:
 * [CopyEdit GPT Lambda API](https://github.com/eddietejeda/copyedit-gpt-lambda)
 * [Langchain Lambda Layer](https://github.com/eddietejeda/aws-langchain-lambda-layer)
 
+<img src="https://github.com/eddietejeda/copyedit-svelte-app/blob/main/screenshot.png"  height="800">
 
 ## Framework7 CLI Options
 
