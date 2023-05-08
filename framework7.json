@@ -1,0 +1,26 @@
+{
+  "cwd": "./copyedit-svelte-app",
+  "type": [
+    "web",
+    "capacitor"
+  ],
+  "name": "Copyedit",
+  "framework": "svelte",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false,
+  "pkg": "io.framework7.copyedit",
+  "capacitor": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
